@@ -1,20 +1,17 @@
 ## Hi I'm May 👋
 
-I'm a Master of Applied Data Science student at the University of Canterbury, with a background in Computer Scicne and Business Analytics. 
+I'm a Master of Applied Data Science student at the University of Canterbury, with a background in Computer Science and Business Analytics. 
 
 I'm interested in Data Science, Business Analytics, and Software Deevelopment.
 
-<!--
-**maythethninn/maythethninn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education
 
-Here are some ideas to get you started:
+**Master of Applied Data Science**  
+University of Canterbury, New Zealand
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Bachelor of Computer Science(Honours)**  
+University of Computer Studies, Myanmar
+
+**Diploma in Business Analyics**  
+PSB Academcy, Singapore
+

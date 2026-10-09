@@ -12,7 +12,7 @@ University of Canterbury, New Zealand
 **Bachelor of Computer Science (Honours)**  
 University of Computer Studies, Myanmar
 
-**Diploma in Business Analyics**  
+**Diploma in Business Analytics**  
 PSB Academy, Singapore
 
 ## Skills

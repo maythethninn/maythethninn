@@ -18,11 +18,12 @@ PSB Academy, Singapore
 ## Skills
 
 - Data Science & Business Analytics 
-- Data Wrangling & Digital Analytics 
+- Data Wrangling (Python) & Digital Analytics (Adobe Analytics) 
 - Machine Learning 
+- Statistical Computing (R)
 - SQL & Database Management 
 - Power BI & Data Storytelling 
-- Software Development (C#, ASP.NET, React.js, Next.js) 
+- Software Development (C#, .NET, ASP.NET MVC, React.js, Next.js, Visual Basic, PowerShell)
 - Database Design & Management 
 - SharePoint Development & Process Automation 
 - Version Control (Git, GitHub) 

@@ -23,8 +23,7 @@ PSB Academy, Singapore
 - Statistical Computing (R)
 - SQL & Database Management 
 - Power BI & Data Storytelling 
-- Software Development (C#, .NET, ASP.NET MVC, React.js, Next.js, Visual Basic, PowerShell)
-- Database Design & Management 
+- Software Development (C#, .NET, ASP.NET MVC, React.js, Next.js, Visual Basic, PowerShell) 
 - SharePoint Development & Process Automation 
 - Version Control (Git, GitHub) 
 - Project Management 

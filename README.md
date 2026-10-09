@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi I'm May 👋
+
+I'm a Master of Applied Data Science student at the University of Canterbury, with a background in Computer Scicne and Business Analytics. 
+
+I'm interested in Data Science, Business Analytics, and Software Deevelopment.
 
 <!--
 **maythethninn/maythethninn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

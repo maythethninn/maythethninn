@@ -10,7 +10,7 @@ I'm interested in Data Science, Business Analytics, and Software Development.
 University of Canterbury, New Zealand
 
 **Bachelor of Computer Science (Honours)**  
-University of Computer Studies, Myanmar
+University of Computer Studies, Yangon, Myanmar
 
 **Diploma in Business Analytics**  
 PSB Academy, Singapore
